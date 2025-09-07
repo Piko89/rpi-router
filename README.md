@@ -1,6 +1,6 @@
 # 🍓 Raspberry Pi Router Kontrol Scripti
 
-Bu script, Raspberry Pi'nizi kolayca bir router/access point'e dönüştürmenizi sağlar. Wifi üzerinden aldığı interneti Ethernet üzerinden paylaşabilir veya tam tersi yönde çalışabilir.
+Bu script, Raspberry Pi'nizi kolayca bir router/access point'e dönüştürmenizi sağlar. Wifi üzerinden aldığı interneti Ethernet üzerinden paylaşır.
 
 ## 🚀 Özellikler
 
