@@ -167,5 +167,3 @@ Bu proje MIT lisansı altında dağıtılmaktadır.
 
 **🔗 Faydalı Bağlantılar:**
 - [Raspberry Pi Resmi Dokümantasyonu](https://www.raspberrypi.org/documentation/)
-- [dnsmasq Konfigürasyon Rehberi](http://www.thekelleys.org.uk/dnsmasq/doc.html)
-- [iptables NAT Rehberi](https://netfilter.org/documentation/HOWTO/NAT-HOWTO.html)
